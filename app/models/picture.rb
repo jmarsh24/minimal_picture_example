@@ -1,0 +1,2 @@
+class Picture < Medium
+end
