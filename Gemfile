@@ -35,7 +35,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem "avo", "~> 2"
-gem "pagy", "< 9"
+gem "pagy", "< 10"
 
 gem "pundit"
 
